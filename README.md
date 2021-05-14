@@ -19,9 +19,9 @@ A Wechat Mini App built with Taro for JLUZH
 
 ### Github Stats
 
-[![xyxc0673's GitHub stats](https://github-readme-stats.vercel.app/api?username=xyxc0673)](https://github.com/anuraghazra/github-readme-stats)
+[![xyxc0673's GitHub stats](https://github-readme-stats.vercel.app/api?username=xyxc0673)](https://github.com/xyxc0673)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xyxc0673&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xyxc0673&layout=compact)](https://github.com/xyxc0673)
 
 <!--
 **xyxc0673/xyxc0673** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
