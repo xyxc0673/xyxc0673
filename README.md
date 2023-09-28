@@ -1,21 +1,26 @@
 ### Hi there 👋
 
-I am looking something significant.
+I am looking for something significant.  
+I also have large interest in making different things.  
+So I am making APP with Swift now.
 
 - 📫 How to reach me: xyxc0673#gmail.com
 
 ### Personal Projects
 
 #### V2EX Plus
-Repo: [v2ex-plus](https://github.com/xyxc0673/v2ex-plus)
+A V2EX client built with React Native and Typescript and Redux  
+Repo: [v2ex-plus](https://github.com/xyxc0673/v2ex-plus)  
+Cover:  
+![v2ex-cover.jpeg](https://s2.loli.net/2023/09/28/9SIgEYOAZRyVmFx.jpg)
 
-A V2EX client built with React Native and Typescript and Redux
+
 
 #### JiZhu Assistant
-Repo: [jza-taro-redux](https://github.com/xyxc0673/jza-taro-redux)
-
-
-A Wechat Mini App built with Taro for JLUZH
+A Wechat Mini App built with Taro for JLUZH  
+Repo: [jza-taro-redux](https://github.com/xyxc0673/jza-taro-redux)  
+Cover:  
+![jza-cover.jpeg](https://s2.loli.net/2023/09/28/IcC6zblU7d4mA3Z.jpg)
 
 ### Github Stats
 
