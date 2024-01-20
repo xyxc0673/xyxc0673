@@ -8,6 +8,12 @@ So I am making APP with Swift now.
 
 ### Personal Projects
 
+#### Calendar Remark
+A simple calendar with nice design for remarking a date.  
+Repo: [calendar-remark](https://github.com/xyxc0673/calendar-remark)  
+Cover:  
+![calendar-remark.jpg](https://s2.loli.net/2024/01/20/Kq2FknpZNvacxLo.jpg)
+
 #### V2EX Plus
 A V2EX client built with React Native and Typescript and Redux  
 Repo: [v2ex-plus](https://github.com/xyxc0673/v2ex-plus)  
